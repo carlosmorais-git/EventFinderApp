@@ -190,4 +190,11 @@ Os eventos agora incluem coordenadas reais de São Paulo:
 ✅ Interface responsiva  
 
 O aplicativo agora oferece uma experiência completa de descoberta de eventos, combinando listas filtráveis, mapa interativo e chat social!
+<img width="303" height="671" alt="image" src="https://github.com/user-attachments/assets/e8109a47-1c9c-4b98-b06c-368160d97143" />
+<img width="302" height="670" alt="image" src="https://github.com/user-attachments/assets/02fd6f2d-11bc-42df-bdf4-1de6c3c0e654" />
+<img width="304" height="675" alt="image" src="https://github.com/user-attachments/assets/fb1ca64f-f32d-4967-bd61-9ac53daef0a5" />
+<img width="300" height="674" alt="image" src="https://github.com/user-attachments/assets/b2a75d4c-5456-4f7a-88f0-e0ae8558bf59" />
+
+
+
 
