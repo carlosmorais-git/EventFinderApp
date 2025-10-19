@@ -1,6 +1,6 @@
 # EventFinder App
 
-Um aplicativo React Native inspirado no design do Manus para busca de eventos por região, com filtros de localização e chat para eventos/locais não explorados.
+Um aplicativo React Native com a idéia para busca de eventos por região, com filtros de localização e chat para eventos/locais não explorados.
 
 ## 🚀 Funcionalidades
 
