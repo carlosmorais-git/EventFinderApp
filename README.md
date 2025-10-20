@@ -1,6 +1,10 @@
 # EventFinder App
 
 Um aplicativo React Native com a idéia para busca de eventos por região, com filtros de localização e chat para eventos/locais não explorados.
+<img width="204" height="449" alt="image" src="https://github.com/user-attachments/assets/c65fe166-9010-44c6-8741-c06d0ce95373" /> <img width="203" height="445" alt="image" src="https://github.com/user-attachments/assets/3c0e9cc7-270d-4e14-8300-2468609a6494" /> <img width="202" height="450" alt="image" src="https://github.com/user-attachments/assets/192ec689-ebd0-48bf-bee2-d0480a5b82c6" /> <img width="201" height="447" alt="image" src="https://github.com/user-attachments/assets/f82da95c-4b92-4b44-a623-5ac39b8cadc1" />
+
+
+
 
 ## 🚀 Funcionalidades
 
@@ -190,10 +194,7 @@ Os eventos agora incluem coordenadas reais de São Paulo:
 ✅ Interface responsiva  
 
 O aplicativo agora oferece uma experiência completa de descoberta de eventos, combinando listas filtráveis, mapa interativo e chat social!
-<img width="303" height="671" alt="image" src="https://github.com/user-attachments/assets/e8109a47-1c9c-4b98-b06c-368160d97143" />
-<img width="302" height="670" alt="image" src="https://github.com/user-attachments/assets/02fd6f2d-11bc-42df-bdf4-1de6c3c0e654" />
-<img width="304" height="675" alt="image" src="https://github.com/user-attachments/assets/fb1ca64f-f32d-4967-bd61-9ac53daef0a5" />
-<img width="300" height="674" alt="image" src="https://github.com/user-attachments/assets/b2a75d4c-5456-4f7a-88f0-e0ae8558bf59" />
+
 
 
 
