@@ -1,6 +1,7 @@
 # EventFinder App
 
-Um aplicativo React Native com a idéia para busca de eventos por região, com filtros de localização e chat para eventos/locais não explorados.
+Um aplicativo React Native com a idéia para busca de eventos por região, com filtros de localização e chat para eventos/locais não explorados.<br>
+
 <img width="204" height="449" alt="image" src="https://github.com/user-attachments/assets/c65fe166-9010-44c6-8741-c06d0ce95373" /> <img width="203" height="445" alt="image" src="https://github.com/user-attachments/assets/3c0e9cc7-270d-4e14-8300-2468609a6494" /> <img width="202" height="450" alt="image" src="https://github.com/user-attachments/assets/192ec689-ebd0-48bf-bee2-d0480a5b82c6" /> <img width="201" height="447" alt="image" src="https://github.com/user-attachments/assets/f82da95c-4b92-4b44-a623-5ac39b8cadc1" />
 
 
